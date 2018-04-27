@@ -8,7 +8,7 @@ module.exports = {
         vendors: './src/vendors'
     },
     output: {
-        path: path.join(__dirname, '../electron-quick-start-master/dist/')
+        path: path.join(__dirname, '../electronPart/dist/')
     },
     module: {
         rules: [
